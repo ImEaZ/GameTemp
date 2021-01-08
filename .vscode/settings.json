@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/92bc27c3-020d-44ae-a105-171d6ee9b7f5/resourceGroups/Dev_CignaGame/providers/Microsoft.Web/sites/PhaserAngalur",
+    "appService.deploySubpath": "."
+}
